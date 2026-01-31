@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "title": "Ponniyin Selvan - Part 1",
+        "price": 299,
+        "img": "https://m.media-amazon.com/images/I/71CW2McyifL.jpg",
+        "details": "Kalki Krishnamurthy | Historical Fiction | 900+ pages | Tamil Classic"
+    },
+    {
+        "id": 2,
+        "title": "Ponniyin Selvan - Part 2", 
+        "price": 299,
+        "img": "https://m.media-amazon.com/images/I/61lDH45c91L._UF1000,1000_QL80_.jpg",
+        "details": "Kalki Krishnamurthy | Historical Fiction | 850+ pages | Tamil Epic"
+    },
+    {
+        "id": 3,
+        "title": "Thirukkural",
+        "price": 150,
+        "img": "https://assets2.panuval.com/image/cache/catalog/1017/thirukkural-nadaimurai-urai-1383x2075.jpeg",
+        "details": "Thiruvalluvar | Philosophy | 1330 couplets | Timeless Wisdom"
+    },
+    {
+        "id": 4,
+        "title": "Sujatha Novels",
+        "price": 199,
+        "img": "https://uyirmmaibooks.com/wp-content/uploads/2019/10/1571488109-324x486.png",
+        "details": "Sujatha Rangarajan | Sci-Fi & Thriller | Multiple Stories | Modern Classic"
+    },
+    {
+        "id": 5,
+        "title": "Perumal Murugan",
+        "price": 260,
+        "img": "https://m.media-amazon.com/images/I/41r1GPEnB1L._AC_UF1000,1000_QL80_.jpg",
+        "details": "Perumal Murugan | Literary Fiction | Award Winner | Contemporary Tamil"
+    },
+    {
+        "id": 6,
+        "title": "Jayakanthan Collection",
+        "price": 250,
+        "img": "https://cdn.exoticindia.com/images/products/original/books-2019-004/hai133.jpg",
+        "details": "Jayakanthan | Social Fiction | Sahitya Akademi | Social Commentary"
+    },
+    {
+        "id": 7,
+        "title": "Pudumaipithan Stories",
+        "price": 175,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk6N-XtzE-4PbbeTmGHbqhcal374bKIN5zZg&s",
+        "details": "Pudumaipithan | Short Stories | Progressive Writer | Tamil Modernism"
+    },
+    {
+        "id": 8,
+        "title": "Naanchil Nathan",
+        "price": 220,
+        "img": "https://cdn.exoticindia.com/images/products/original/books-2019-023/uaz664.jpg",
+        "details": "Naanchil Nathan | Detective Fiction | Tamil Detective | Mystery Series"
+    },
+    {
+        "id": 9,
+        "title": "Indra Soundararajan",
+        "price": 210,
+        "img": "https://www.madrasshoppe.com/84648-large_default/out-of-the-blue-indra-soundar-rajan.jpg",
+        "details": "Indra Soundararajan | Historical Novels | Sundara Ramaswamy | Tamil Saga"
+    },
+    {
+        "id": 10,
+        "title": "Jeyamohan Works",
+        "price": 320,
+        "img": "https://www.juggernaut.in/cdn/shop/files/Stories_of_the_True_RGB_Mockup.png?v=1735213141",
+        "details": "Jeyamohan | Philosophical Fiction | Venmurasu Epic | Tamil Literature"
+    },
+    {
+        "id": 11,
+        "title": "Tamil Poetry",
+        "price": 180,
+        "img": "https://m.media-amazon.com/images/I/61j87l8441L._AC_UF1000,1000_QL80_.jpg",
+        "details": "Various Poets | Modern Poetry | Bharathiyar & Others | Tamil Verse"
+    },
+    {
+        "id": 12,
+        "title": "Political Novels",
+        "price": 280,
+        "img": "https://www.gutenberg.org/cache/epub/68060/pg68060.cover.medium.jpg",
+        "details": "Various Authors | Political Fiction | Tamil Politics | Contemporary"
+    },
+    {
+        "id": 13,
+        "title": "Family Dramas",
+        "price": 240,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRItVsHjK6OqDHa0vjliHeH8MgVQOFUipHVlw&s",
+        "details": "Tamil Family Novels | Emotional Stories | Relationship Drama | Popular"
+    },
+    {
+        "id": 14,
+        "title": "Short Story Collection",
+        "price": 160,
+        "img": "https://rukminim2.flixcart.com/image/480/640/xif0q/book/v/e/d/collected-short-stories-70-brilliant-short-stories-from-a-face-original-imagyweahvkhmgwv.jpeg?q=90",
+        "details": "Various Authors | Tamil Short Stories | Modern Collection | Award Winning"
+    },
+    {
+        "id": 15,
+        "title": "Tamil Cinema Books",
+        "price": 275,
+        "img": "https://m.media-amazon.com/images/I/A14X7WXgm2L._AC_UF1000,1000_QL80_.jpg",
+        "details": "Film History & Biographies | Tamil Cinema | Behind the Scenes | Popular"
+    },
+    {
+        "id": 16,
+        "title": "Philosophy Books",
+        "price": 310,
+        "img": "https://m.media-amazon.com/images/I/71dja6Im5LL._AC_UF1000,1000_QL80_.jpg",
+        "details": "Spiritual & Philosophy | Tamil Sages | Self Improvement | Wisdom Literature"
+    },
+    {
+        "id": 17,
+        "title": "Historical Fiction",
+        "price": 350,
+        "img": "https://i0.wp.com/bookthoughtsfrombed.com/wp-content/uploads/2024/02/1.png?fit=800%2C1200&ssl=1",
+        "details": "Tamil History Novels | Chola & Pandya Era | Epic Narratives | Bestsellers"
+    },
+    {
+        "id": 18,
+        "title": "Detective Stories",
+        "price": 190,
+        "img": "https://m.media-amazon.com/images/I/91wz6Xxp4RL._AC_UF1000,1000_QL80_.jpg",
+        "details": "Tamil Detective Series | Crime Thrillers | Mystery Collection | Gripping"
+    },
+    {
+        "id": 19,
+        "title": "Modern Tamil Literature",
+        "price": 230,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJJeTinHNFTDdSSOM0QUX87zbd_lPFwzFJuw&s",
+        "details": "Contemporary Writers | New Generation | Tamil Literary Award | Fresh Voices"
+    },
+    {
+        "id": 20,
+        "title": "Bharathiyar Poems",
+        "price": 140,
+        "img": "https://tamilbookspdf.com/wp-content/uploads/2023/07/Bharathiyar-Kavidhaigal-By-Subramania-Bharati.jpg",
+        "details": "Mahakavi Bharathiyar | Revolutionary Poetry | Tamil Patriotism | Classic"
+    }
+]

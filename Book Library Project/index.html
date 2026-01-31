@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Book Store</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>📚 My Book Store</h1>
+        <p>Premium Tamil Literature Collection</p>
+    </header>
+    
+    <nav>
+        <button onclick="showBooks()" id="books-btn">📖 Books</button>
+        <button onclick="showCart()" id="cart-btn">🛒 Cart (<span id="cart-count">0</span>)</button>
+    </nav>
+    
+    <input type="text" id="search" placeholder="Search books..." onkeyup="searchBooks()">
+    
+    <section id="books-page">
+        <div class="books-grid" id="books-grid"></div>
+    </section>
+    
+    <section id="cart-page">
+        <h2 style="margin-bottom: 30px;">🛒 Shopping Cart</h2>
+        <div id="cart-items"></div>
+        <div id="cart-total" class="cart-total" style="display: none;">Total: ₹0</div>
+        <div id="empty-cart" class="empty-cart">Your cart is empty. Add some books first!</div>
+    </section>
+
+    <!-- External Files Linked -->
+    <script src="books.json"></script>
+    <script src="script.js"></script>
+</body>
+</html>

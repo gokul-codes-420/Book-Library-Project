@@ -6,10 +6,6 @@ A clean, minimalist, and beautifully designed web application for a Tamil Litera
 
 **[🟢 Live Preview: Click here to view the Book Library!](https://gokul-codes-420.github.io/book-library-live/)**
 
-*(Note: It may take 1-2 minutes for GitHub Pages to build the site if you just clicked it right after deployment. If you see a 404, just refresh in a moment!)*
-
-**[💻 Local Preview: Click here to open locally](./index.html)**
-
 ## 📁 Features
 * **Elegant UI:** A sleek, light-themed aesthetic focused on minimalist typography (Inter & Lora fonts).
 * **Interactive Cart:** Add items to your bag, see total calculations in real-time.
